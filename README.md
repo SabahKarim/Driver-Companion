@@ -2,9 +2,6 @@
  
 The repo contains code demonstrating the Watson Conversation service
 
-
-![](https://github.com/cdimascio/nationalparks_conversation/raw/master/.assets/sshot.png)
-
 ## Prequisities
 
 
@@ -56,7 +53,7 @@ Install client and server dependencies
 Follow the first 3 steps in the "Build / Run (Production)" section above, then run:
 
 - `cf push driver-companion` 
-##nationalparks
+
 
 
 
